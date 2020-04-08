@@ -14,3 +14,15 @@ you can try and `checkout` this branch by:
 chmod +x branch-grabber.sh
 ./branch-grabber.sh payment
 ```
+
+## kc-pod-bash.sh
+
+
+The [kc-pod-bash.sh](kc-pod-bash.sh) will get you to the bash shell of the **first** pod mathing the name you want
+
+Usage:
+
+```
+chmod +x kc-pod-bash.sh
+./kc-pod-bash.sh <partial pod name>
+```
